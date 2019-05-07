@@ -1,0 +1,13 @@
+
+
+
+
+O game funciona onde o jogador não pode deixar cair os lixos no chão,
+se caso ele deixar cair ele perde vidas, o jogador tem três vidas no maximo,
+e tem icones de latas de lixo no lado direito da tela onde cada um tem a cor que
+representa onde o lixo deve ser jogado corretamente, se o jogador pegar o lixo
+mas se a cor da lata em que ele estiver controlando não representar a cor correta 
+do lixo em que ele for pegar, ele perde uma vida, se ele perder as três vidas é game over
+No canto superior direito ficará a contagem de tempo e a contagem de vidas, o tempo vai ser 
+infinito o que vai tornando o game mais dificil vai ser a velocidade dos lixos conforme 
+vai caindo na tela
