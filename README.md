@@ -1,6 +1,6 @@
 # GameReciclagem
   Projeto feito em Java para a faculdade, ele consiste em um game tematico de meio ambiente
-onde o jogador controla a lata de lixo, tendo que selecionar a cor correta com o tipo de lixo
+onde o jogador controla a lata que vai recolher o item a ser descartado, tendo que selecionar a cor correta com o tipo de lixo
 que deve ser descartado
 
 
